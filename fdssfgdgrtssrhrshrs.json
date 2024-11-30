@@ -5,11 +5,33 @@
             "license": "license:4fba09af185acedb75717211cfa9a38f6c34abde",
             "discord": "discord:1229043653515939921",
             "ip": "192.168.1.1",
-            "reason": "Cheating"
+            "_comment": "Das Ist Nils",
+            "reason": "Cheating NightV"
         },
         {
-            "license": "license:1",
-            "reason": "1"
+            "discord": "discord:718442008275845121",
+            "_comment": "Das Ist Ilja",
+            "reason": "Cheating NightV"
+        },
+        {
+            "discord": "discord:1135281590457618442",
+            "_comment": "Das Ist Noel",
+            "reason": "Cheating NightV"
+        },
+        {
+            "discord": "discord:1135281590457618442",
+            "_comment": "Das Ist Noel",
+            "reason": "Cheating NightV"
+        },
+        {
+            "discord": "discord:1155904227881791679",
+            "_comment": "Das Ist Pascal",
+            "reason": "Cheating NightV"
+        },
+        {
+            "discord": "discord:1273431239914950746",
+            "_comment": "Das Ist Ben",
+            "reason": "Cheating NightV"
         }
     ]
 }
