@@ -1,9 +1,9 @@
 {
     "blacklisted": [
         {
-            "steam": "steam:1",
-            "license": "license:1",
-            "discord": "discord:1",
+            "steam": "steam:110000149db5117",
+            "license": "license:4fba09af185acedb75717211cfa9a38f6c34abde",
+            "discord": "discord:1229043653515939921",
             "ip": "192.168.1.1",
             "reason": "Cheating"
         },
